@@ -1,3 +1,3 @@
 module github.com/reverted/logger
 
-go 1.13
+go 1.17
